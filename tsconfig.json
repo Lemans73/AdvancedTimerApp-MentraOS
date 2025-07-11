@@ -16,6 +16,6 @@
     },
       "include": [
     "*.env", "*.ts", "/src/*.ts", "/src/core/*.ts", "/src/features/*.ts", "/src/session/*.ts", "/src/utils/*.ts", "/src/features/stopwatch/*.ts", "/src/features/timer/*.ts", "/src/features/pomodoro/*.ts"    // Je root index.ts
-  ],
+, "src/index.ts"  ],
     "exclude": ["node_modules", "dist"]
   }
